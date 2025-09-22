@@ -1,2 +1,3 @@
-# my-first-project
-This is my first project on Github.
+# hello-world
+This repository is for practicing Github.
+I am Jigme Tsundu.
